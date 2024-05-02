@@ -1,0 +1,51 @@
+{
+  "PopularProducts": {
+    "title": "Beliebteste Produkte",
+    "products": "Produkte",
+    "name": "Mehr Produkte"
+  },
+  "Breadcrumb": {
+    "name": "Produkte",
+    "home": "Startseite"
+  },
+  "Products": {
+    "head": "Produkte"
+  },
+  "Hero": {
+    "title": "Handgemachte authentische Kekse.",
+    "subtitle": "Keksladen",
+    "button": "Unsere Kreation"
+  },
+  "LocaleSwitcher": {
+    "label": "Sprache ändern",
+    "locale": "{locale, select, de {DE} en {EN} el {EL} other {Unbekannt}}"
+  },
+  "Navigation": {
+    "products": {
+      "title": "Produkte"
+    },
+    "about-us": {
+      "title": "Über uns"
+    },
+    "contact": {
+      "title": "Kontakt"
+    }
+  },
+  "Footer": {
+    "products": "Produkte",
+    "company": "Die Firma",
+    "information": "Informationen",
+    "contact": "Kontakt",
+    "about-us": "Über uns",
+    "cookie-policy": "Cookie Richtlinie",
+    "privacy": "Datenschutzerklärung"
+  },
+  "LocalSwitcher": {
+    "label": "Wähle Sprache"
+  },
+  "ProductInfo": {
+    "title": "Wir schaffen wundervolle Erinnerungen",
+    "grid-label-one": "Schokolade - Schokodrops",
+    "grid-label-two": "Sonnenblumenkern-Knäcke"
+  }
+}

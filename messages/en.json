@@ -1,0 +1,51 @@
+{
+  "PopularProducts": {
+    "title": "Popular Products",
+    "products": "Products",
+    "name": "More products"
+  },
+  "Products": {
+    "head": "Products"
+  },
+  "Breadcrumb": {
+    "name": "Products",
+    "home": "Home"
+  },
+  "Hero": {
+    "title": "Handmade authentic cookies.",
+    "subtitle": "Cookies Shop",
+    "button": "Our creation"
+  },
+  "LocaleSwitcher": {
+    "label": "Change Language",
+    "locale": "{locale, select, de {DE} en {EN} el {EL} other {Unbekannt}}"
+  },
+  "Navigation": {
+    "products": {
+      "title": "Products"
+    },
+    "about-us": {
+      "title": "About us"
+    },
+    "contact": {
+      "title": "Contact"
+    }
+  },
+  "Footer": {
+    "products": "Products",
+    "company": "The Company",
+    "information": "Information",
+    "contact": "Contact",
+    "about-us": "About us",
+    "cookie-policy": "Cookie Policy",
+    "privacy": "Privacy Policy"
+  },
+  "LocalSwitcher": {
+    "label": "Select Language"
+  },
+  "ProductInfo": {
+    "title": "We create wonderful memories",
+    "grid-label-one": "Chocolate - Choco Drops",
+    "grid-label-two": "Sunflower Seed Crispbread"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "PopularProducts": {
+    "title": "Δημοφιλή προϊόντα",
+    "products": "Προϊόντα",
+    "name": "Περισσότερα Προϊόντα"
+  },
+  "Products": {
+    "head": "Προϊόντα"
+  },
+  "Breadcrumb": {
+    "name": "Προϊόντα",
+    "home": "Αρχική"
+  },
+  "Hero": {
+    "title": "Αυθεντικά χειροποίητα μπισκότα.",
+    "subtitle": "Καταστημα μπισκοτων",
+    "button": "Η δημιουργία μας"
+  },
+  "LocaleSwitcher": {
+    "label": "Αλλαγή Γλώσσας",
+    "locale": "{locale, select, de {DE} en {EN} el {EL} other {Unbekannt}}"
+  },
+  "Navigation": {
+    "products": {
+      "title": "Προϊόντα"
+    },
+    "about-us": {
+      "title": "Σχετικά με εμάς"
+    },
+    "contact": {
+      "title": "Επικοινωνία"
+    }
+  },
+  "Footer": {
+    "products": "Προιοντα",
+    "company": "Η εταιρια",
+    "information": "Πληροφοριες",
+    "contact": "Επικοινωνια",
+    "about-us": "Σχετικά με εμάς",
+    "cookie-policy": "Πολιτική cookies",
+    "privacy": "Προστασία Προσωπικών Δεδομένων"
+  },
+  "LocalSwitcher": {
+    "label": "Επέλεξε Γλώσσα"
+  },
+  "ProductInfo": {
+    "title": "Δημιουργούμε Υπέροχες Αναμνήσεις",
+    "grid-label-one": "Σοκολάτα - Choco Drops",
+    "grid-label-two": "Κριτσίνι Ηλιόσπορος"
+  }
+}
